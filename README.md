@@ -146,7 +146,14 @@ The API will:
 - Normalize  
 - Predict **"Dress"** or **"Sneaker"**
 
+## 🔍 Example — Dress Prediction
+![Dress Prediction](images/example_dress.png)
+
+## 👟 Example — Sneaker Prediction
+![Sneaker Prediction](images/example_sneaker.png)
+
 ---
+
 
 # 💻 6. Terminal Inference
 
