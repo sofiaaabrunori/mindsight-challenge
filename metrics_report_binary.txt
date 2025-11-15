@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+       Dress       1.00      1.00      1.00      1000
+     Sneaker       1.00      1.00      1.00      1000
+
+    accuracy                           1.00      2000
+   macro avg       1.00      1.00      1.00      2000
+weighted avg       1.00      1.00      1.00      2000
