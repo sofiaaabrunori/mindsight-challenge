@@ -9,6 +9,6 @@ def preprocess_image(img):
         transforms.ToTensor(),
         transforms.Normalize((0.5,), (0.5,))
     ])
-
+    
     tensor = transform(img).unsqueeze(0)  # add batch dimension
     return tensor
